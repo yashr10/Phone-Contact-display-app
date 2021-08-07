@@ -1,0 +1,2 @@
+rootProject.name = "Unicode Task-1"
+include ':app'
